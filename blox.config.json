@@ -1,0 +1,1 @@
+{"name":"dsbfbsdfjsdbfsbf","type":"function","source":{"https":"https://github.com/that-coder/dsbfbsdfjsdbfsbf","ssh":"git@github.com:that-coder/dsbfbsdfjsdbfsbf.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i","standAloneBlox":false}
